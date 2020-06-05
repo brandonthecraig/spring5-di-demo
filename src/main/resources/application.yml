@@ -1,0 +1,12 @@
+guru:
+  jms:
+    username: Brandonyaml
+    password: thirdpass
+    url: hey here we go
+
+---
+spring:
+  profiles: de
+guru:
+  jms:
+    username: BrandonyamlGerman
